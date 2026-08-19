@@ -711,3 +711,9 @@ jsonresume:
   - languages
   - interests
   - references
+# Manual Navigation Bar Pages Override
+navbar_pages:
+  - about
+  - publications
+  - cv
+  - teaching
