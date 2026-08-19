@@ -35,4 +35,6 @@ I completed my Bachelor of Liberal Arts and Sciences (2015–2021) at Purbanchal
 <p style="text-align: justify; margin-bottom: 1.8rem;">Over the past few years, my work has increasingly focused on how legacy systems, path dependence, and institutional stickiness reproduce social inequalities and policy implementation gaps. I use a mixed-methods toolkit combining qualitative elite interviews and content analysis (MAXQDA, NVivo) with quantitative statistical methods like multilevel regressions and difference-in-difference modeling (R, Stata). I want to pursue a PhD in public policy or political science broadly focused on these themes.</p>
 
 <p style="text-align: justify; margin-bottom: 1.8rem;">I do not yet have peer-reviewed journal publications. So far, my academic outputs include working policy papers, evaluation reports, and my completed master's thesis framework.</p>
+.
+
 
