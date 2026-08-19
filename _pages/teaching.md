@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: TEACHING
 permalink: /teaching/
 description: Materials and course modules co-designed or instructed at Universität Tübingen.
 nav: true
