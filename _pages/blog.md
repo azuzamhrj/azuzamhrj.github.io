@@ -3,6 +3,7 @@ layout: default
 permalink: /blog/
 title: blog
 nav: false
+nav_exclude: true
 nav_order: 1
 pagination:
   enabled: true
@@ -12,8 +13,8 @@ pagination:
   sort_field: date
   sort_reverse: true
   trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
+    before: 1
+    after: 3
 ---
 
 <div class="post">
@@ -180,7 +181,7 @@ pagination:
 
   <div class="col-sm-3">
     <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="image">
-  </div>
+  </div> 
 </div>
 {% endif %}
     </li>
