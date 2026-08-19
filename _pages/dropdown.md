@@ -1,13 +1,9 @@
 ---
 layout: page
+permalink: /dropdown/
 title: submenus
+description: a drop-down menu item
 nav: false
-nav_order: 8
-dropdown: true
-children:
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+nav_exclude: true
+nav_order: 6
 ---
