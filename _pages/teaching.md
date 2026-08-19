@@ -11,8 +11,6 @@ In my role within Global Awareness Education at the Universität Tübingen, I br
 
 ***
 
-### 🎓 Dynamic Course Portfolios
-
 **Global Challenges to Development: Introduction to SDGs (SoSe 2025)**
 *Graduate Teaching Assistant & Simulation Facilitator*  
 * **Core Framework:** Developed instructional tracks parsing macro development dependencies, state human and development metrics, and global structural inequality points.
