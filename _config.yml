@@ -136,7 +136,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+# blog_name: al-folio # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -711,9 +711,10 @@ jsonresume:
   - languages
   - interests
   - references
-# Manual Navigation Bar Pages Override
-navbar_pages:
-  - about
-  - publications
-  - cv
-  - teaching
+
+# Navigation Settings
+enable_blog: false
+enable_dropdown: false
+enable_people: false
+enable_repositories: false
+
