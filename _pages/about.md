@@ -25,7 +25,7 @@ latest_posts:
 ---
 <p style="text-align: justify; margin-bottom: 1.8rem;">I am a public policy researcher based in Tübingen, Germany, originally from Kathmandu, Nepal. I study why climate policy stalls between commitment and action: inside the institutions meant to implement it, and in the public debate that shapes support for it. </p>
 
-<p style="text-align: justify; margin-bottom: 1.8rem;"> <b> Current Work </b>
+<p style="text-align: justify; margin-bottom: 1.8rem;"> <b> Current Work </b> <br> </br>
 
 Public Policy Researcher, Logiq Media. I research how online echo chambers, polarization and climate skepticism hold back climate policy and government action. I turn the findings into accessible content for policy and public audiences, published through social media and a bi-weekly newsletter. I also support project development and grant writing, preparing funding proposals for research and communication projects.
 
