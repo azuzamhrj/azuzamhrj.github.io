@@ -23,15 +23,26 @@ announcements:
 latest_posts:
   enabled: false
 ---
-<p style="text-align: justify; margin-bottom: 1.8rem;">Hi there 👋, Welcome to my portfolio website!</p>
+<p style="text-align: justify; margin-bottom: 1.8rem;">I am a public policy researcher based in Tübingen, Germany, originally from Kathmandu, Nepal. I study why climate policy stalls between commitment and action: inside the institutions meant to implement it, and in the public debate that shapes support for it. </p>
 
-<p style="text-align: justify; margin-bottom: 1.8rem;">I am an early-career public policy and comparative institutional analysis researcher based in Tübingen, Germany, originally from Kathmandu, Nepal. My academic journey spans training in comparative institutional analysis and quantitative survey methods with field and research experience across Nepal, China, and Germany.</p>
+<p style="text-align: justify; margin-bottom: 1.8rem;"> <b> Current Work </b>
 
-<p style="text-align: justify; margin-bottom: 1.8rem;">At the Universität Tübingen, I currently work as a Graduate Student Assistant within Global Awareness Education. In this role, I act as a teaching assistant for global policy courses and provide logistic support. I completed my Bachelor of Liberal Arts and Sciences (2015–2021) and during this time was introduced to institutional and policy studies through Fulbright Global Undergraduate program at Grand Valley State University, Michigan, in 2020. Driven by a responsibility to give back to my community, I spent five years leading civil initiatives and social impact programs as a Program Lead for ‘We’ for Change, a youth-led NGO in Nepal, where I secured over €15,000 from international donors. In 2021, I was honored with the Princess Diana Award for my work in these civic and leadership spaces. In 2022, I was selected as a Schwarzman Scholar at Tsinghua University in Beijing, where I completed my Master of Management Science in Global Affairs with a focus on comparative political contexts. Following this, I moved to Germany in 2023 to pursue my Master of Public Policy and Social Change at the Universität Tübingen.</p>
+Public Policy Researcher, Logiq Media. I research how online echo chambers, polarization and climate skepticism hold back climate policy and government action. I turn the findings into accessible content for policy and public audiences, published through social media and a bi-weekly newsletter. I also support project development and grant writing, preparing funding proposals for research and communication projects.
 
-<p style="text-align: justify; margin-bottom: 1.8rem;">In my Master’s thesis, supervised by Prof. Dr. Martin Seeleib-Kaiser and Prof. Dr. Thomas Diez, I examined why decentralized governance execution remains structurally constrained despite formal legislative local authority. While my empirical focus was a localized case study, what drew me deeper into this field was the classic institutional paradox of formal mandate vs. structural inertia. My findings traced how modern responsibilities are layered onto unreformed financial, technical, and bureaucratic structures, producing a self-reinforcing institutional lock-in that resists state reform even when resources are available. The underlying logic of this thesis is directly transferable to broader public policy debates, such as tracing welfare state dualization across insider/outsider protection regimes in the EU and the West.</p>
+Graduate Student Assistant, Global Awareness Education, Universität Tübingen. I am a teaching assistant and support in co-teaching interdisciplinary courses that take students from climate science to policy action, including Climate Crisis: From Science to Policy on Global Nature-Based Solutions and The Air You Breathe: Air Quality from Stuttgart to Kathmandu. In the classroom, I lead discussions that help students from different disciplines connect global climate challenges to local policy choices, often drawing on my fieldwork in Nepal. Beyond teaching, I coordinate events and international trainings masters and bachelors students.
 
-<p style="text-align: justify; margin-bottom: 1.8rem;">Over the past few years, my work has increasingly focused on how legacy systems, path dependence, and institutional stickiness reproduce social inequalities and policy implementation gaps. I use a mixed-methods toolkit combining qualitative elite interviews and content analysis (MAXQDA, NVivo) with quantitative statistical methods like multilevel regressions and difference-in-difference modeling (R, Stata).</p>
+<p style="text-align: justify; margin-bottom: 1.8rem;"> <b> Research </b>
+
+My MA thesis, supervised by Prof. Dr. Martin Seeleib-Kaiser and Prof. Dr. Thomas Diez, examines why local governments in Kathmandu Valley remain constrained in climate adaptation despite formal authority. Based on 18 expert interviews, it shows how new responsibilities are layered onto unreformed financial, technical and bureaucratic structures. This creates a self-reinforcing lock-in that persists even when resources are available.
+
+<p style="text-align: justify; margin-bottom: 1.8rem;"> <b> Methods </b>
+  
+Qualitative: elite interviews and content analysis (MAXQDA, NVivo). Quantitative: multilevel regression and difference-in-differences models (R, Stata).
+
+<p style="text-align: justify; margin-bottom: 1.8rem;"> <b> Backgroud </b>
+
+MA Public Policy and Social Change, Universität Tübingen (2023–2026) · Schwarzman Scholar, MSc Global Affairs, Tsinghua University (2022–23) · Fulbright Global UGRAD, Grand Valley State University (2020) · Program Lead, ‘We’ for Change, Nepal (2017–2021): led climate-resilience and civic programmes and raised €15,000+ from international donors · Diana Award (2021).</p>
+
 .
 
 
