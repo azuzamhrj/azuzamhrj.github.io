@@ -42,7 +42,7 @@ Qualitative: elite interviews and content analysis (MAXQDA, NVivo). Quantitative
 <p style="text-align: justify; margin-bottom: 1.8rem;"> <b> Backgroud </b>
 
 MA Public Policy and Social Change, Universität Tübingen (2023–2026) · Schwarzman Scholar, MSc Global Affairs, Tsinghua University (2022–23) · Fulbright Global UGRAD, Grand Valley State University (2020) · Program Lead, ‘We’ for Change, Nepal (2017–2021): led climate-resilience and civic programmes and raised €15,000+ from international donors · Diana Award (2021).</p>
-
 .
+
 
 
