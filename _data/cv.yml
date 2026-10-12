@@ -63,24 +63,35 @@ cv:
         score: "3.83/4.00"
 
     Experience:
+    
+      - company: Logiq Media
+        position: Policy Research, Communication and Outreach
+        location: Germany
+        start_date: Sept 2026
+        end_date: Present
+        highlights:
+          - "Research how online echo chambers, polarisation and climate skepticism obstruct climate policy and government action."
+          - "Translate research findings, workshop outputs and conference insights into accessible digital content for policy and industry audiences."
+          - "Manage research communication through social media and a bi-weekly newsletter."
+
       - company: Universität Tübingen
         position: Graduate Student Assistant – Global Awareness Education
         location: Germany
-        start_date: 2023
+        start_date: Nov 2023
         end_date: Present
-        summary: "Teaching assistant on climate policy courses: Climate Crisis: From Science to Policy on Global Nature-Based Solutions (WS 2025/26); The Air You Breathe: Air Quality from Stuttgart to Kathmandu (WS 2025/26); Global Challenges to Development: Introduction to SDGs (SoSe 2025)"
         highlights:
-          - "Coordinated logistics, speaker liaison, and content development for 4+ university events and 2 international training sessions serving 75+ master's and PhD researchers, including events supported by the European Geo-Sciences Union"
+          - "Teaching assistant on climate policy courses namely, Climate Crisis: From Science to Policy on Global Nature-Based Solutions; The Air You Breathe: Air Quality from Stuttgart to Kathmandu."
+          - "Coordinated logistics, speaker liaison, and content development for 4+ university events and 2 international training sessions serving 75+ master's and PhD researchers, including events supported by the European Geo-Sciences Union."
 
       - company: ‘We’ for Change
         position: Program Lead
         location: Kathmandu, Nepal
         start_date: 2017
         end_date: 2021
-        summary: "Conducted workshops, focus group discussions, and coordinated fieldwork for climate resilience and civic engagement programs across Nepal."
         highlights:
           - "Led funding proposal development and donor reporting, securing over €15,000 from international partners including Girls Act, Plan International, Japan Water Forum, and Peace First"
           - "Mobilized and mentored 900+ youth nationwide to lead community empowerment initiatives and access seed grants."
+          - "Conducted workshops, focus group discussions, and coordinated fieldwork for climate resilience and civic engagement programs across Nepal."
 
       - company: Security Pal
         position: People Operations Generalist / Consultant
